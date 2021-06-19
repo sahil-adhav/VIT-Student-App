@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "438033755711",
+    "firebase_url": "https://vishwakarma-institute.firebaseio.com",
+    "project_id": "vishwakarma-institute",
+    "storage_bucket": "vishwakarma-institute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438033755711:android:0118393d96cacfdf4cd28a",
+        "android_client_info": {
+          "package_name": "com.sahiladhav.vit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438033755711-a12ft202e5lico2meh65jp4ltoi73rkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXSyjSeU3_yjfeeiRPX4xLeoerMASHm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438033755711-a12ft202e5lico2meh65jp4ltoi73rkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438033755711:android:3422ef9ae6d22d4a4cd28a",
+        "android_client_info": {
+          "package_name": "com.sahiladhav.vitstudentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438033755711-a12ft202e5lico2meh65jp4ltoi73rkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXSyjSeU3_yjfeeiRPX4xLeoerMASHm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438033755711-a12ft202e5lico2meh65jp4ltoi73rkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

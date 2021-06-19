@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_video"
+        android:title="Video Lectures"
+        android:icon="@drawable/video1"/>
+
+    <item android:id="@+id/navigation_ebook"
+        android:title="Ebooks"
+        android:icon="@drawable/ebook"/>
+
+    <item android:id="@+id/navigation_theme"
+        android:title="Themes"
+        android:icon="@drawable/color"/>
+
+    <item android:id="@+id/navigation_color"
+        android:title="Mode"
+        android:icon="@drawable/ic_color"/>
+
+    <item android:id="@+id/navigation_website"
+        android:title="Website"
+        android:icon="@drawable/web"/>
+
+    <item android:id="@+id/navigation_academics"
+        android:title="Academics"
+        android:icon="@drawable/exam"/>
+
+    <item android:id="@+id/navigation_share"
+        android:title="Share"
+        android:icon="@drawable/share"/>
+
+    <item android:id="@+id/navigation_rate"
+        android:title="Rate Us"
+        android:icon="@drawable/rate"/>
+
+
+    <item android:id="@+id/navigation_logout"
+        android:title="Log out"
+        android:icon="@drawable/dev"/>
+
+
+</menu>

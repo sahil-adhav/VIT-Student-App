@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/layout"
+    android:layout_height="match_parent"
+    tools:context=".Exam">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="700dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/a1"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="700dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/a3"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="700dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/a4"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="700dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/a5"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:background="#c1c1c1"
+                android:layout_height="700dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/a2"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
